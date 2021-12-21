@@ -1,0 +1,3 @@
+[submodule "mcpkg"]
+	path = mcpkg
+	url = https://github.com/charliemikels/mcpkg.git
